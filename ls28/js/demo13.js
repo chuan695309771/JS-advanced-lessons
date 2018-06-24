@@ -13,3 +13,5 @@ jQuery.ajax = function (url, {
     complete = function () {},
     crossDomain = false,
     global = true,
+}) {
+};
